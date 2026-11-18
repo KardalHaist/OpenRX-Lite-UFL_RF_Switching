@@ -1,4 +1,4 @@
-# OpenRX Lite-UFL
+# OpenRX Lite-UFL/ Forked For Antenna Diversity using an RF Switch
 
 Open-source 2.4 GHz ExpressLRS radio control receiver module with telemetry,
 for any radio-controlled build: cars, boats, robots and aircraft. OpenRX Lite-UFL
